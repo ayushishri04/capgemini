@@ -1,0 +1,6 @@
+com\gal\Main.class
+com\gal\model\Customer.class
+com\gal\model\Item.class
+com\gal\EntityManagerFactoryProvider.class
+com\gal\model\AnOrder.class
+com\gal\model\Payment.class
