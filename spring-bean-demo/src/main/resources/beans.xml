@@ -1,0 +1,9 @@
+<beans>
+    <bean id="myXmlCalc" class="com.gal.algo.MyCalc">
+    </bean>
+    
+    <bean id="myxmlStringBuilder" class="java.lang.StringBuilder">
+    <constructor-arg value="Hello from xml string builder"/>
+    </bean>
+
+</beans>
