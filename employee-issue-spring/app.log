@@ -1,0 +1,23 @@
+2026-03-24T21:01:03.639+05:30  INFO 5544 --- [employee-issue] [main] com.gal.EmployeeIssueSpringApplication   : Starting EmployeeIssueSpringApplication using Java 21.0.9 with PID 5544 (C:\Users\DELL\eclipse-workspace\employee-issue-spring\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\employee-issue-spring)
+2026-03-24T21:01:03.644+05:30  INFO 5544 --- [employee-issue] [main] com.gal.EmployeeIssueSpringApplication   : No active profile set, falling back to 1 default profile: "default"
+2026-03-24T21:01:04.430+05:30  INFO 5544 --- [employee-issue] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-24T21:01:04.511+05:30  INFO 5544 --- [employee-issue] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 68 ms. Found 2 JPA repository interfaces.
+2026-03-24T21:01:05.147+05:30  INFO 5544 --- [employee-issue] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2026-03-24T21:01:05.166+05:30  INFO 5544 --- [employee-issue] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-24T21:01:05.167+05:30  INFO 5544 --- [employee-issue] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-24T21:01:05.241+05:30  INFO 5544 --- [employee-issue] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-03-24T21:01:05.242+05:30  INFO 5544 --- [employee-issue] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1522 ms
+2026-03-24T21:01:05.427+05:30  INFO 5544 --- [employee-issue] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-24T21:01:05.490+05:30  INFO 5544 --- [employee-issue] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-24T21:01:05.535+05:30  INFO 5544 --- [employee-issue] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-03-24T21:01:05.830+05:30  INFO 5544 --- [employee-issue] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-24T21:01:05.863+05:30  INFO 5544 --- [employee-issue] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-03-24T21:01:06.269+05:30  INFO 5544 --- [employee-issue] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79d4ff58
+2026-03-24T21:01:06.272+05:30  INFO 5544 --- [employee-issue] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-03-24T21:01:06.333+05:30  WARN 5544 --- [employee-issue] [main] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-03-24T21:01:07.403+05:30  INFO 5544 --- [employee-issue] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-24T21:01:07.531+05:30  INFO 5544 --- [employee-issue] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-24T21:01:07.830+05:30  INFO 5544 --- [employee-issue] [main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-03-24T21:01:08.409+05:30  WARN 5544 --- [employee-issue] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-24T21:01:08.814+05:30  INFO 5544 --- [employee-issue] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path ''
+2026-03-24T21:01:08.823+05:30  INFO 5544 --- [employee-issue] [main] com.gal.EmployeeIssueSpringApplication   : Started EmployeeIssueSpringApplication in 5.703 seconds (process running for 6.601)
