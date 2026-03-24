@@ -1,0 +1,6 @@
+com\gal\service\TrainingServiceImpl.class
+com\gal\api\TrainingController.class
+com\gal\model\Training.class
+com\gal\repo\TrainingRepository.class
+com\gal\MockitoTrainingApplication.class
+com\gal\service\TrainingService.class

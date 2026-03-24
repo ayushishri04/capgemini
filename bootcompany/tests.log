@@ -1,0 +1,951 @@
+256  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 58573 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+257  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+258  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1943 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.818 seconds (process running for 2.174)
+301  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 59053 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+302  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+302  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2149 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.006 seconds (process running for 2.505)
+2150 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+1452 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 16940 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1455 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1456 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1148 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 20248 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1163 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1166 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+676  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 2552 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+678  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+678  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+762  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 12304 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+771  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+773  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+748  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 20756 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+754  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+756  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+741  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 16528 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+747  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+748  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+682  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 22032 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+684  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+684  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+682  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 22556 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+689  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+690  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+657  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25848 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+660  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+660  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+653  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 11040 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+656  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+657  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+680  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 24040 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+684  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+684  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+676  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+683  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+685  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4608 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 4.268 seconds (process running for 5.143)
+4612 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+12387 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+12388 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+12388 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1010 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 26200 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1014 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1014 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+13120 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.766 seconds (process running for 13.655)
+13124 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+5962 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.515 seconds (process running for 6.47)
+5965 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+34227 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+34227 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+34227 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+34227 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+34227 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+34227 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+34230 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+34230 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+34231 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+34231 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+34231 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+34231 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+793  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 11412 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+797  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+798  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+22772 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 26200 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+22773 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+22773 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+71967 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+71968 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+71968 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+72041 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+72041 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+72041 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+61071 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 26200 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+61071 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+61071 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+73766 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.835 seconds (process running for 74.302)
+73769 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+659  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 4496 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+664  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+666  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+75043 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 26200 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+75043 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+75043 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+75611 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.595 seconds (process running for 76.119)
+75613 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+895  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 24140 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+896  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+897  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+87589 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+87591 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+87591 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+87629 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25456 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+87629 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+87629 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+88300 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.797 seconds (process running for 88.835)
+88302 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+4894 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 4.436 seconds (process running for 5.317)
+4900 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+788  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 24916 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+797  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+799  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+644  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 14708 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+645  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+646  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4354 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 4.023 seconds (process running for 4.859)
+4356 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+663  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 15120 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+665  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+666  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+192171 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 14708 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+192172 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+192172 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+192953 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.828 seconds (process running for 193.459)
+192956 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+787  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 22960 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+788  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+789  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+629  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 25016 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+630  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+630  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+674  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 26336 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+680  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+682  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4270 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.918 seconds (process running for 4.702)
+4273 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+1277 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 9136 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1280 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1281 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9028 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 8.328 seconds (process running for 9.78)
+9032 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+9233 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+9294 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=10, depName=Administration, managerId=100]
+9295 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=20, depName=Production, managerId=201]
+9295 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=30, depName=Sales, managerId=124]
+9295 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=40, depName=Finance, managerId=205]
+9295 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=50, depName=Customer Support, managerId=100]
+9295 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+9346 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=10, depName=Administration, managerId=100]
+9346 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=20, depName=Production, managerId=201]
+9346 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=30, depName=Sales, managerId=124]
+9346 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=40, depName=Finance, managerId=205]
+9346 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=50, depName=Customer Support, managerId=100]
+9346 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+9374 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=10, depName=Administration, managerId=100]
+9374 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=20, depName=Production, managerId=201]
+9375 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=30, depName=Sales, managerId=124]
+9375 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=40, depName=Finance, managerId=205]
+9375 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=50, depName=Customer Support, managerId=100]
+9399 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+9413 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+9414 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=100, firstname=Steven, lastname=King]
+9414 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Neena, lastname=Kochhar]
+9414 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Lex, lastname=De Haan]
+9414 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=124, firstname=Kevin, lastname=Mourgos]
+9414 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=141, firstname=Trenna, lastname=Rajs]
+9414 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=198, firstname=Donald, lastname=OConnell]
+9414 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=199, firstname=Douglas, lastname=Grant]
+9415 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=200, firstname=Jennifer, lastname=Whalen]
+9415 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=201, firstname=Michael, lastname=Hartstein]
+9415 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=202, firstname=Pat, lastname=Fay]
+9415 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=205, firstname=Shelley, lastname=Higgins]
+9415 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=206, firstname=William, lastname=Gietz]
+9415 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=300, firstname=Ayushi, lastname=Shrivastava]
+9438 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=100, firstname=Steven, lastname=King]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Neena, lastname=Kochhar]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Lex, lastname=De Haan]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=124, firstname=Kevin, lastname=Mourgos]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=141, firstname=Trenna, lastname=Rajs]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=198, firstname=Donald, lastname=OConnell]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=199, firstname=Douglas, lastname=Grant]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=200, firstname=Jennifer, lastname=Whalen]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=201, firstname=Michael, lastname=Hartstein]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=202, firstname=Pat, lastname=Fay]
+9439 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=205, firstname=Shelley, lastname=Higgins]
+9440 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=206, firstname=William, lastname=Gietz]
+9440 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=300, firstname=Ayushi, lastname=Shrivastava]
+9464 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=100, firstname=Steven, lastname=King]
+9464 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Neena, lastname=Kochhar]
+9464 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Lex, lastname=De Haan]
+9464 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=124, firstname=Kevin, lastname=Mourgos]
+9464 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=141, firstname=Trenna, lastname=Rajs]
+9464 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=198, firstname=Donald, lastname=OConnell]
+9464 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=199, firstname=Douglas, lastname=Grant]
+9464 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=200, firstname=Jennifer, lastname=Whalen]
+9465 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=201, firstname=Michael, lastname=Hartstein]
+9465 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=202, firstname=Pat, lastname=Fay]
+9465 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=205, firstname=Shelley, lastname=Higgins]
+9465 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=206, firstname=William, lastname=Gietz]
+9465 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=300, firstname=Ayushi, lastname=Shrivastava]
+634  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 1928 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+636  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+636  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5175 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 4.848 seconds (process running for 5.626)
+5178 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+5280 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+5320 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+5351 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+5382 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+5387 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+5400 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+1209 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 21848 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1210 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1211 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+12878 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 12.467 seconds (process running for 13.405)
+12881 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+13094 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+13157 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+13198 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+13254 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+13262 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+13285 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+709  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 21204 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+711  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+712  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5590 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.247 seconds (process running for 6.17)
+5596 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+5692 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+5725 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+5774 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+5812 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+5820 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+5834 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+80187 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 21204 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+80188 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+80188 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+80969 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.803 seconds (process running for 81.549)
+80971 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+80994 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+81005 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+81025 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+81059 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+81067 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+81082 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+673  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 23572 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+680  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+682  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4268 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.924 seconds (process running for 4.658)
+4273 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+4373 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+4431 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+4456 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+4491 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+4500 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+4518 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+1312970 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 23572 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1312970 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1312970 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+738  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 1932 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+743  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+744  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1313686 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.741 seconds (process running for 1314.075)
+1313688 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+1313706 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+1313713 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+1313728 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+1313760 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+1313767 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+1313783 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+2347702 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 23572 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+2347703 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2347703 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2348299 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.627 seconds (process running for 2348.689)
+2348300 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+2348318 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2348327 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2348339 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+2348366 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2348372 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2348385 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+768  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 22916 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+777  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+778  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2397590 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 23572 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+2397590 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2397590 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2397978 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.409 seconds (process running for 2398.368)
+2397979 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+2397995 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2398001 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2398016 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+2398040 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2398045 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2398059 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+733  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 1076 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+735  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+736  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2500906 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 23572 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+2500906 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2500906 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2501513 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.631 seconds (process running for 2501.903)
+2501515 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+2501532 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2501539 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2501554 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+2501582 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2501587 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2501601 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+723  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 21224 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+724  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+725  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2543143 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 23572 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+2543143 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2543143 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2604732 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 23572 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+2604733 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2604733 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+757  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 18436 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+762  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2605221 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.51 seconds (process running for 2605.611)
+764  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2605222 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+2605238 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2605245 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2605259 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+2605288 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2605296 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2605309 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+4231 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.878 seconds (process running for 4.71)
+4237 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+4324 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+4358 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+4386 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+4423 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+4430 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+4445 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+626  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 13568 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+635  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+637  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3946 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.61 seconds (process running for 4.423)
+3950 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+4050 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+4085 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+4108 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+4141 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+4148 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+4163 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+500349 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 13568 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+500349 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+500349 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+501324 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.01 seconds (process running for 501.801)
+501328 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+501353 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+501363 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+501382 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+501421 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+501430 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+501448 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+512174 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 13568 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+512174 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+512174 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+513075 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.955 seconds (process running for 513.552)
+513077 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+513101 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+513112 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+513131 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+513173 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+513182 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+513201 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+941705 [http-nio-8088-exec-10] DEBUG com.gal.api.DepartmentController - request for adding dep Department [departmentId=55, depName=Test Department, managerId=201]
+1334898 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 13568 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1334898 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1334899 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1335930 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.069 seconds (process running for 1336.407)
+1335932 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+1335957 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+1335969 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+1335969 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+1335988 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+1335988 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+1336008 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+1336027 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+1336036 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+1336051 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+2783742 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 13568 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+2783742 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2783742 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2785154 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.506 seconds (process running for 2785.631)
+2785155 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+2785180 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2785190 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+2785190 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+2785210 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+2785210 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+2785229 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+2785246 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2785253 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+2785271 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+1137 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 8288 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1142 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1142 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+942  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 17240 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+944  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+945  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+6340 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.85 seconds (process running for 7.041)
+6345 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+6494 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6561 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6561 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6593 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6593 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+6619 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6642 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6650 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6669 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+1060364 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 17240 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1060364 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1060365 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1214 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 14632 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1216 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1218 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1487404 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 17240 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1487404 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1487404 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1488457 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.1 seconds (process running for 1489.158)
+1488461 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+1488485 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+1488496 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+1488496 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+1488517 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+1488517 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+1488539 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+1488559 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+1488568 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+1488585 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+1162 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 13220 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1164 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1165 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+866  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 18016 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+873  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+875  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+6129 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.692 seconds (process running for 6.765)
+6145 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+6265 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6319 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6319 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6345 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6345 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+6370 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6390 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6398 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6415 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+782729 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 18016 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+782729 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+782729 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+783824 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.146 seconds (process running for 784.461)
+783827 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+783852 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+783864 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+783865 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+783882 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+783882 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+783902 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+783917 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+783925 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+783941 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+1157 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 724 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1159 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1160 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+848  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 19040 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+850  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+851  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+6167 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.744 seconds (process running for 6.738)
+6171 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+6308 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6361 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6361 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6389 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6389 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+6413 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6431 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6440 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6456 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+969  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 13868 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+972  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+973  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1006 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 3044 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1012 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1014 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+6906 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 6.419 seconds (process running for 7.614)
+6911 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+7043 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7097 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7097 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7120 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7120 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+7143 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7162 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7169 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7169 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7186 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+7186 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7200 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+846  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+848  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+849  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+6168 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.753 seconds (process running for 6.736)
+6172 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+6302 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6358 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6358 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6384 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6384 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+6406 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6425 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6433 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6433 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+6449 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+6450 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+6467 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+48934 [http-nio-8088-exec-5] DEBUG com.gal.api.DepartmentController - request for adding dep Department [departmentId=55, depName=Test Department, managerId=201]
+5813248 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+5813249 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5813249 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5814332 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.12 seconds (process running for 5814.9)
+5814336 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+5814364 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+5814374 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+5814374 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+5814398 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+5814398 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+5814432 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+5814449 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+5814458 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+5814458 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+5814458 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+5814458 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+5814458 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+5814479 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+5814479 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+5814479 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+5814479 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+5814479 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+5814505 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+5814506 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+5814506 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+5814506 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+5965484 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+5965484 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5965484 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5966386 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.934 seconds (process running for 5966.954)
+5966388 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+5966408 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+5966420 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+5966421 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+5966438 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+5966438 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+5966458 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+5966474 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+5966484 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+5966484 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+5966484 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+5966484 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+5966484 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+5966502 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+5966502 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+5966503 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+5966503 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+5966503 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+5966520 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+5966520 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+5966520 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+5966520 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+6026301 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+6026301 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+6026302 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+6027060 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.794 seconds (process running for 6027.628)
+6027061 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+6027085 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6027094 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6027094 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+6027113 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6027114 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+6027133 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+6027155 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6027166 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+6027166 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+6027166 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+6027166 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+6027166 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+6027186 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+6027186 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+6027186 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+6027186 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+6027187 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+6027209 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+6027209 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+6027209 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+6027209 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7199521 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+7199521 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+7199521 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+7200179 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.697 seconds (process running for 7200.747)
+7200179 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+7200199 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7200211 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7200211 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7200232 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7200233 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+7200246 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7200260 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7200267 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7200267 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7200267 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7200267 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7200267 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7200284 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+7200284 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7200284 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7200284 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7200284 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7200298 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7200299 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7200299 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7200299 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7349361 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+7349362 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+7349362 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+7349850 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.512 seconds (process running for 7350.417)
+7349851 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+7349866 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7349873 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7349873 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7349887 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7349887 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+7349901 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7349921 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7349927 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7349927 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7349927 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7349927 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7349927 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7349940 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+7349940 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7349940 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7349940 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7349940 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7349954 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7349954 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7349954 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7349954 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7422523 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+7422524 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+7422524 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+7423081 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.581 seconds (process running for 7423.649)
+7423082 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+7423102 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7423109 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7423109 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7423120 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7423120 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+7423134 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7423145 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7423150 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7423150 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7423150 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7423150 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7423150 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7423161 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+7423161 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7423161 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7423161 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7423161 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7423173 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7423174 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7423174 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7423174 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7489613 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+7489613 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+7489613 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+7490308 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.741 seconds (process running for 7490.876)
+7490309 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+7490326 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7490338 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7490338 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7490355 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7490355 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+7490369 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7490384 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7490390 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7490390 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7490390 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7490390 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7490390 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7490403 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+7490403 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7490404 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7490404 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7490404 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7490420 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7490420 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7490420 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7490420 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7595155 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+7595155 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+7595155 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+7595609 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.47 seconds (process running for 7596.176)
+7595609 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+7595625 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7595633 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7595633 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7595646 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7595646 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+7595658 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7595669 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7595677 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7595677 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7595677 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7595677 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7595677 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7595691 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+7595691 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7595691 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7595691 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7595691 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7595703 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7595703 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7595703 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7595703 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7720402 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+7720402 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+7720402 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+8043727 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+8043727 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+8043727 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+8146819 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+8146819 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+8146819 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+8167191 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+8167191 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+8167191 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+8202011 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+8202011 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+8202011 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+8218366 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+8218366 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+8218366 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+8591226 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+8591226 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+8591226 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9115437 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+9115437 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+9115437 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9285431 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+9285431 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+9285431 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9336433 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+9336433 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+9336433 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9475040 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+9475041 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+9475041 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9491334 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+9491334 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+9491334 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9544013 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+9544013 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+9544013 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9703697 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+9703697 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+9703697 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+9874864 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+9874864 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+9874864 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10373105 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10373105 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10373105 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10937302 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10937302 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10937303 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10940624 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10940624 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10940624 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10946082 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10946083 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10946083 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10948678 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10948679 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10948679 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10951250 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10951250 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10951250 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10979473 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10979474 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10979474 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10982868 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10982868 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10982869 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10986211 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7088 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+10986212 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+10986212 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1352 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 8448 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1365 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1366 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1059 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 14832 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1060 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1061 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+984  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 11940 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+989  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+991  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+977  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 10320 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+986  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+987  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+973  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 2152 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+989  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+994  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+6894 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 6.446 seconds (process running for 7.513)
+6898 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+7039 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7106 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7106 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7139 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7139 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+7169 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7198 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7209 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7210 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7210 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7210 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7210 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7236 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+7236 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7236 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7237 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7237 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7263 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7263 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7264 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7264 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+306474 [http-nio-8088-exec-6] DEBUG com.gal.api.AllocationController - Received allocation request: com.gal.model.AllocationData@7dc176de
+1242107 [http-nio-8088-exec-8] DEBUG com.gal.api.AllocationController - Received allocation request: com.gal.model.AllocationData@11865a9a
+1015 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 7608 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1018 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1019 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+7019 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 6.493 seconds (process running for 7.77)
+7025 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+7173 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7240 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7240 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+7273 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7273 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+7303 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+7326 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7337 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+7337 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7338 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7338 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7338 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7361 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+7361 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7361 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7361 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7361 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+7384 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+7385 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+7385 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+7385 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+1152 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 6036 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1154 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1155 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+8780 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 8.294 seconds (process running for 9.403)
+8785 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+8982 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+9052 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+9052 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+9110 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+9110 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+9143 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+9167 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+9178 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+9178 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+9179 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+9179 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+9179 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+9209 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+9209 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+9210 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+9210 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+9210 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+9236 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+9237 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+9237 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+9238 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+462920 [http-nio-8088-exec-4] DEBUG com.gal.api.AllocationController - Received allocation request: com.gal.model.AllocationData@24f87530
+794877 [http-nio-8088-exec-2] DEBUG com.gal.api.AllocationController - Received allocation request: com.gal.model.AllocationData@43fe7950
+1261 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 16764 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+1261 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1261 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+18102 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 17.388 seconds (process running for 18.862)
+18107 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+18259 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+18328 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+18329 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+18361 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+18361 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+18394 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+18419 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+18431 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+18431 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+18431 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+18432 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+18432 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+18458 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+18459 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+18459 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+18459 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+18459 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+18488 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+18489 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+18489 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+18489 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+42597 [http-nio-8088-exec-5] DEBUG com.gal.api.AllocationController - Received allocation request: com.gal.model.AllocationData@678cb041
+88184 [http-nio-8088-exec-3] DEBUG com.gal.api.AllocationController - Received allocation request: com.gal.model.AllocationData@51724fa9
+128366 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 16764 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+128367 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+128367 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+131912 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.9 with PID 16764 (C:\Users\DELL\eclipse-workspace\bootcompany\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\bootcompany)
+131913 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+131913 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+133097 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.233 seconds (process running for 133.857)
+133100 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+133131 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+133148 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+133148 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=CS, managerId=null]
+133172 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+133173 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=101, depName=Computer Science, managerId=null]
+133200 [restartedMain] INFO  com.gal.BootcompanyApplication - Department [departmentId=55, depName=Test Department, managerId=201]
+133223 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+133233 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=John, lastname=Doe]
+133234 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+133234 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+133234 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+133234 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+133256 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=1, firstname=Johnny, lastname=Doe]
+133256 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+133256 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+133256 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+133256 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
+133279 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=101, firstname=Ayushi, lastname=Shrivastava]
+133280 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=102, firstname=Vaduni, lastname=Niranjan]
+133280 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=103, firstname=Bhavya, lastname=Jaiswal]
+133280 [restartedMain] INFO  com.gal.BootcompanyApplication - Employee [employeeId=104, firstname=Harshita, lastname=Gahlot]
