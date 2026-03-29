@@ -1,1 +1,1 @@
-I have made this repository to store every assessments and projects i have completed in capgemini training
+This repository contains every assessments and projects completed in capgemini training
